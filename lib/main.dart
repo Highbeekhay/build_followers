@@ -266,7 +266,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           Container(
                             padding: EdgeInsets.symmetric(
                               horizontal: 100,
-                              vertical: 98,
+                              vertical: 100,
                             ),
                             decoration: BoxDecoration(
                                 color: Colors.green,
@@ -300,7 +300,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                     BorderRadiusDirectional.circular(10)),
                           ),
                         ],
-                      )
+                      ),
                     ],
                   ),
                 ],
