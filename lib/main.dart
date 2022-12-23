@@ -172,7 +172,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         ),
                         padding: EdgeInsets.fromLTRB(30, 10, 30, 10),
                         child: Text(
-                          "Unflow",
+                          "Unfollow",
                           style: TextStyle(color: Colors.lightBlueAccent),
                         ),
                       ),
